@@ -1,0 +1,21 @@
+
+# Android build outputs
+**/build/
+
+# Gradle and Kotlin caches
+.gradle/
+.kotlin/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local SDK configuration
+local.properties
+
+# Firebase configuration
+app/google-services.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
