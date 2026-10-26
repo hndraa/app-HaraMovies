@@ -1,6 +1,6 @@
 # HaraMovies — Movie Discovery & Booking App
 
-**MOBILE APPLICATION | ANDROID DEVELOPMENT | KOTLIN · ANDROID STUDIO**
+**SOFTWARE | MOBILE APPLICATION | KOTLIN · ANDROID STUDIO**
 
 HaraMovies is an Android movie discovery and booking application developed to help users explore movies, discover upcoming releases, view movie details, save favorites, and manage selected movies through a cart. The application integrates external movie data and provides a mobile interface for browsing and managing movie selections.
 
